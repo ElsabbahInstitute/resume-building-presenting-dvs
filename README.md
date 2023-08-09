@@ -1,2 +1,2 @@
-# resume-building-presenting-dvs
-A course that teaches developers build up their skills and show it to the world.
+# Resume Building and Presenting For Developers
+A course that teaches developers how to build up their skills and show it to the world.
